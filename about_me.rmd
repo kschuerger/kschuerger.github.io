@@ -1,0 +1,22 @@
+---
+# title: "About Me"
+# author: "Kati"
+# date: "7/12/2021"
+output: html_document
+---
+
+## About Me
+
+Current Residence: Denver, Colorado. 
+
+Education: B.A. Philosophy, Southwestern University 
+
+MBA, Temple University 
+
+Employer: Comcast Business 
+
+Job Title: Manager, Data Engineering and Analytics 
+
+Interests: running
+
+The other tabs represent work / analyses that I have completed.  Please check them out!
